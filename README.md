@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jhonatadf
 - 👀 I’m interested in Java
-- 🌱 I’m currently learning Python and Django
+- 🌱 I’m currently learning Java ☕
 - 💞️ I’m looking to collaborate on Webdev
 - 📫 How to reach me? Here :)
 
