@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jhonatadf
 - 👀 I’m interested in PHP
-- 🌱 I’m currently learning HTML, CSS, Javascript, PHP 
+- 🌱 I’m currently learning HTML, CSS, PHP, Javascript 
 - 💞️ I’m looking to collaborate on Webdev
 - 📫 How to reach me? Here :)
 
